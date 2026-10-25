@@ -47,15 +47,15 @@ At its core, this emulator works by allowing your computer hardware to mimic the
 controller support will be added in a later version. For now, this is limited to keyboard controls
 
 ## Keyboard Controls
-up arrow - up dpad
-down arrow - down dpad
-left arrow - left dpad
-right arrow - right dpad
+- up arrow - up dpad
+- down arrow - down dpad
+- left arrow - left dpad
+- right arrow - right dpad
 
-z - A button
-x - B button
-start - Enter
-Select - Right Shift
+- z - A button
+- x - B button
+- Start - Enter
+- Select - Right Shift
 
 ## Future Additions
 When this project is finished, a **Game Boy Color Emulator** will be in the works! since the core hardware framework is built already developing GBC emulator should take significantly less time.
