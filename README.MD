@@ -1,4 +1,4 @@
-# GameBoy Emulator
+# Game Boy Emulator
 Game Boy emulator written in C++ (currently in development).
 
 This is a Game Boy emulator that I have been developing over the past 4–5 months. My primary motivation was a deep curiosity about how this piece of technological history works on the inside. To scratch that itch, I dove into low-level programming, learned how individual hardware components and registers operate, and brought this project to life.
@@ -9,7 +9,6 @@ The emulator is still under active development (roughly **70% complete**), so a 
 
 bug reports, feedback, and pull requests will be welcomed!
 
-
 ## Disclaimer & ROMs usage 
 *(Sorry for all formal legal speak as the only developer on this project I need to make sure expectations and legal guidelines are clear.)** 
 
@@ -18,8 +17,6 @@ Please ensure that any ROMs you use with this emulator are legally acquired.
 * **No ROMs included:** This repository does not contain or distribute any ROM files or BIOS images
 * **Legal ownership:** Please only use ROM files dumped from game cartridges you own, or homebrew/open-source software
 * **User Agreement:** Users are legally responsible for any software they choose to download illegally. The developer of this emulator (me) assumes no liability for any illegal misuse of copyright material or any personal data lost.
-
-
 
 ## Download 
 [Download the latest release](https://github.com/knightAmor97/Gameboy-Emulator/releases/latest)
@@ -49,9 +46,9 @@ To bypass this:
 This is normal behaviour for software built by unrecognizable publishers and is completely safe to run.
 
 ## How it works
-At its core, this emulator works by allowing your computer hardware to mimic the architecture of a Game Boyusing Low-level Emulation (LLE). I've tried to replicate component behaviours as accurately as possible.
+At its core, this emulator works by allowing your computer hardware to mimic the architecture of a using Low-level Emulation (LLE). I've tried to replicate component behaviours as accurately as possible.
 
-- **CPU:** executes gameboy opcodes, manipulates CPU registers and tracks instruction cycles.
+- **CPU:** executes game Boy opcodes, manipulates CPU registers and tracks instruction cycles.
 - **MMU:** handles memory read and writes, ROM banking, cartridge RAM and hardware register access
 - **PPU:** tracks LCD modes scanlines, renders window tiles and sprites
 - **APU:** Models the 4 Game boy audio channels, their timers, waveform generation, envelopes, sweep and audio registers.
@@ -70,6 +67,5 @@ controller support will be added in a later version. For now, this is limited to
 - x - B button
 - Start - Enter
 - Select - Right Shift
-
 ## Future Additions
 When this project is finished, a **Game Boy Color Emulator** will be in the works! since the core hardware framework is built already developing GBC emulator should take significantly less time.
