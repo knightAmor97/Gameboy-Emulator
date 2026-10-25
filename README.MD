@@ -11,6 +11,8 @@ bug reports, feedback, and pull requests will be welcomed!
 
 
 ## Disclaimer & ROMs usage 
+*(Sorry for allformal legal speak as the only developer on this project I need to make sure expectations and legal guidelines are clear.)** 
+
 Please ensure that any ROMs you use with this emulator are legally acquired.
 
 * **No ROMs included:** This repository does not contain or distribute any ROM files or BIOS images
@@ -21,6 +23,16 @@ Please ensure that any ROMs you use with this emulator are legally acquired.
 
 ## Download 
 [Download the latest release](https://github.com/knightAmor97/Gameboy-Emulator/releases/latest)
+
+## Feedback & bug reports
+Help shape this emulator if you encounter any bugs weird visuals or have suggested changes I would love to hear them!. Please submit them below
+
+👉 **[Form to submit a Bug report or feature Request](https://docs.google.com/forms/d/e/1FAIpQLSfZ4CGfpolM9HC7gBQvHvmIjH3pmmQURS_Mqs8GCKlRTKa7gA/viewform?usp=publish-editor)**
+
+**(Again apologies for the formal legal talk - its just here to keep both of us protected!)**
+
+* **Ethical Testing Note:** By submitting this form, you voluntarily agree to participate in this testing. 
+* **Data Privacy:** Submissions are completely anonymous and no data will be shared with any third parties
 
 ### System Requirements
 * **OS:** Windows 10/11 (Mac and Linux support Coming Soon!)
