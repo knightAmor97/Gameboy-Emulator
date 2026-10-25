@@ -9,7 +9,7 @@ The emulator is still under active development (roughly **70% complete**), so a 
 
 bug reports, feedback, and pull requests will be welcomed!
 
----
+
 ## Disclaimer & ROMs usage 
 Please ensure that any ROMs you use with this emulator are legally acquired.
 
@@ -17,7 +17,7 @@ Please ensure that any ROMs you use with this emulator are legally acquired.
 * **Legal ownership:** Please only use ROM files dumped from game cartridges you own, or homebrew/open-source software
 * **User Agreement:** Users are legally responsible for any software they choose to download illegally. The developer of this emulator (me) assumes no liability for any illegal misuse of copyright material or any personal data lost.
 
----
+
 
 ## Download 
 [Download the latest release](https://github.com/knightAmor97/Gameboy-Emulator/releases/latest)
