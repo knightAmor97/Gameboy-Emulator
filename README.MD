@@ -35,7 +35,7 @@ To bypass this:
 This is normal behaviour for software built by unrecognizable publishers and is completely safe to run.
 
 ## How it works
-At its core, this emulator works by allowing your computer hardware to mimic the architecture of a Game Boyusing Low-level Emulation (LLE). I've strived to replicate component behaviours as accurately as possibl.
+At its core, this emulator works by allowing your computer hardware to mimic the architecture of a Game Boyusing Low-level Emulation (LLE). I've tried to replicate component behaviours as accurately as possible.
 
 - **CPU:** executes gameboy opcodes, manipulates CPU registers and tracks instruction cycles.
 - **MMU:** handles memory read and writes, ROM banking, cartridge RAM and hardware register access
