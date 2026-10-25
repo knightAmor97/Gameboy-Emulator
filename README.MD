@@ -20,7 +20,7 @@ Please ensure that any ROMs you use with this emulator are legally acquired.
 ---
 
 ## Download 
-[Download the latest release](https://github.com/knightAmor97/Gameboy-Emulator/releases/latest)
+[Download the latest release](https://github.com/knightAmor97/Gameboy-Emulator/releases/latest/download/GameBoy-Emulator-Windows.zip)
 
 ### System Requirements
 * **OS:** Windows 10/11 (Mac and Linux support Coming Soon!)
