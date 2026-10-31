@@ -21,18 +21,6 @@ Please ensure that any ROMs you use with this emulator are legally acquired.
 ## Download 
 [Download the latest release](https://github.com/knightAmor97/Gameboy-Emulator/releases/latest)
 
-## Feedback & bug reports
-Help shape this emulator if you encounter any bugs weird visuals or have suggested changes I would love to hear them!. Please submit them below
-
-👉 **[Form to submit a Bug report or feature Request](https://docs.google.com/forms/d/e/1FAIpQLSfZ4CGfpolM9HC7gBQvHvmIjH3pmmQURS_Mqs8GCKlRTKa7gA/viewform?usp=publish-editor)**
-
-*(Again apologies for the formal legal talk - its just here to keep both of us covered!)**
-
-* **Ethical Testing Note:** By submitting this form, you voluntarily agree to participate in this testing. 
-* **Data Privacy:** Submissions are completely anonymous and no data will be shared with any third parties
-
-**Thank you a ton for helping me test and polish this emulator!**
-
 ### System Requirements
 * **OS:** Windows 10/11 (Mac and Linux support Coming Soon!)
 
@@ -44,6 +32,18 @@ To bypass this:
 2. Click **Run anyway**
 
 This is normal behaviour for software built by unrecognizable publishers and is completely safe to run.
+
+## Feedback & bug reports
+Help shape this emulator if you encounter any bugs weird visuals or have suggested changes I would love to hear them!. Please submit them below
+
+👉 **[Form to submit a Bug report or feature Request](https://docs.google.com/forms/d/e/1FAIpQLSfZ4CGfpolM9HC7gBQvHvmIjH3pmmQURS_Mqs8GCKlRTKa7gA/viewform?usp=publish-editor)**
+
+*(Again apologies for the formal legal talk - its just here to keep both of us covered!)**
+
+* **Ethical Testing Note:** By submitting this form, you voluntarily agree to participate in this testing. 
+* **Data Privacy:** Submissions are completely anonymous and no data will be shared with any third parties
+
+**Thank you a ton for helping me test and polish this emulator!**
 
 ## How it works
 At its core, this emulator works by allowing your computer hardware to mimic the architecture of a using Low-level Emulation (LLE). I've tried to replicate component behaviours as accurately as possible.
